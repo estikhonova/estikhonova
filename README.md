@@ -2,8 +2,6 @@
 
 ### **Data Analyst**
 
-#### 👨‍💻 О себе:
-
 #### 🔧 Technologies & Tools:
 
 **Languages**
@@ -30,8 +28,6 @@
 
 - **Telegram:** [@alec_waste](https://t.me/alec_waste)
 - **Email:** [magnuficentbabe@yandex.ru](mailto:magnuficentbabe@yandex.ru)
-
-#### 📊 Ключевые проекты
 
 #### 🎓 Образование и сертификаты
 
